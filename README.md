@@ -1,5 +1,10 @@
 # CurriculoFronted
 
+<p align="center">
+  <a href="http://larjr.com.br" target="blank"><img src="assets/Oculos_Papai_-_Fundo_Amarelo_Rosa.gif" width="64" alt="larjr Logo" /></a>
+</p>
+<hr>
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.7.
 
 ## Development server
